@@ -1,0 +1,16 @@
+{
+    "fileLocations": [
+       
+        {
+            "URIPrefixes": [
+                "s3://dev-inlet-quicksight/Navigator/dev/daily/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "containsHeader": "true"
+    }
+}
+                        
